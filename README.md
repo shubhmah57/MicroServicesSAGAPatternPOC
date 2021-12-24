@@ -1,5 +1,5 @@
-# MicroServicesPOC
+# MicroServicesSAGAPatternPOC
 
 This Project includes the MicroServices Projects:
 
-a) SAGA Pattern
+a) SAGA Pattern (Intercommunication, Transaction Management)
